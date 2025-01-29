@@ -1,4 +1,4 @@
-import profilePic from "./profilePic.jpg";
+import profilePic from "./profilePic.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import send from "./Send.svg";
